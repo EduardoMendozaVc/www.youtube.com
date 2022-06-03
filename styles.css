@@ -116,6 +116,32 @@
 }
 
 
+
+#dayer a {
+				transform: rotate(-50deg);
+				margin-top: -420px;
+				margin-left: -230px;
+				position: absolute;
+				background-color: red;
+				border: 1px solid transparent;
+				border-radius: 0px;
+				box-shadow: 0px 0px 25px red;
+}
+
+#dayer a:hover {
+				transform: rotate(-50deg);
+				margin-top: -420px;
+				margin-left: -230px;
+				position: absolute;
+				background-color: red;
+				border: 1px solid transparent;
+				border-radius: 0px;
+				box-shadow: 0px 0px 25px red;
+}
+
+
+
+
 #fade h2 {
 				text-align: center;
 				margin-top: 50px;
